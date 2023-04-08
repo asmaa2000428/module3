@@ -1,0 +1,96 @@
+. conteneur-fluide {
+	marge :  0 ;
+	rembourrage :  0 ;
+}
+
+. barre de navigation {
+	rayon de bordure :  0 px ;
+	couleur de fond :  rgba ( 0 , 0 , 0 , 0.8 );
+}
+
+. marque de barre de navigation {
+  taille de police :  35 px ;
+  couleur : blanc;
+  rembourrage gauche :  25 px ;
+}
+
+. marque de la barre de navigation : hover {
+	couleur : blanc;
+}
+
+. navigation {
+	marge :  0 ;
+	rembourrage :  0 ;
+}
+
+. barre de navigation-nav {
+  taille de police :  25 px ;
+  text-align : center;
+  marge :  0 ;
+  rembourrage :  0 ;
+}
+
+. barre de navigation-toggle {
+	bordure :  2 px blanc solide ;
+	marge droite :  25 px ;
+}
+
+. barre d'icônes {
+	couleur de fond : blanc ;
+}
+
+
+. titre-principal {
+  marge-bas :  15 px ;
+  text-align : center;
+  couleur :  # ff4532 ;
+  taille de police :  50 px ;
+  font-family :  "Comic Sans MS" , cursive , sans-serif;
+  font-weight : gras;
+}
+
+li {
+	box-sizing : border-box;
+	largeur :  100 % ;
+}
+
+. élément de menu {
+	rembourrage :  0 ;
+	marge :  0 ;
+	largeur :  100 % ;
+	couleur de fond : blanc ;
+	bordure inférieure :  1 px noir uni ;
+	couleur : noir;
+	affichage : bloc ;
+}
+
+. élément de menu : hover {
+	couleur de fond :  rgba ( 0 , 0 , 0 , 0.9 );
+	couleur :  rgba ( 0 , 0 , 0 , 0.4 );
+}
+
+
+
+. ligne {
+	marge :  20 px ;
+}
+
+. boîte de contenu {
+	marge :  20 px ;
+	largeur : automatique ;
+	hauteur : automatique ;
+	couleur : noir;
+	couleur de fond :  rgba ( 0 , 0 , 0 , 0.2 );
+	font-family :  "Comic Sans MS" , cursive , sans-serif;
+	rembourrage :  20 px ;
+}
+
+. nom-article {
+	text-align : center;
+	taille de police :  20 px ;
+	font-weight : gras;
+}
+
+# haut {
+
+}
